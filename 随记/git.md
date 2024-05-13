@@ -34,7 +34,8 @@
 - `git remote add <远程库的名字，如：origin>   <远程库clone的ssh链接>`
 ：链接到远程库
 - `git push origin main：将版本库里上传到远程库origin里main分支
-# 安装问题
+
+# 安装
 ## Github配置SSH密钥连接，windows10。
 ### 生成ssh密钥
 在终端或命令提示符中，输入以下命令来生成新的SSH密钥对：
